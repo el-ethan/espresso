@@ -1,7 +1,7 @@
 # Extraction
 > It’s the most important part of brewing coffee. If your extraction is improved slightly, the resulting cup is dramatically better.[1](https://baristahustle.com/blogs/barista-hustle/the-80-20-method)
 
---Matt Perger
+-- Matt Perger
 
 ## Overextraction
 ## Underextractions
